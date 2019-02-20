@@ -1,4 +1,6 @@
 ﻿using System;
+using HotChocolate;
+using HotChocolate.Types;
 
 namespace graphql_demo
 {
@@ -6,7 +8,7 @@ namespace graphql_demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var schema = Schema.Create(c => c.RegisterType<ObjectType<Query>>());
         }
     }
 }

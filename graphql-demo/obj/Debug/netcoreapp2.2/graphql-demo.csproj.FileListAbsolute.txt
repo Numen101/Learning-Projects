@@ -1,0 +1,11 @@
+C:\repos\Learning-Projects\graphql-demo\bin\Debug\netcoreapp2.2\graphql-demo.deps.json
+C:\repos\Learning-Projects\graphql-demo\bin\Debug\netcoreapp2.2\graphql-demo.runtimeconfig.json
+C:\repos\Learning-Projects\graphql-demo\bin\Debug\netcoreapp2.2\graphql-demo.runtimeconfig.dev.json
+C:\repos\Learning-Projects\graphql-demo\bin\Debug\netcoreapp2.2\graphql-demo.dll
+C:\repos\Learning-Projects\graphql-demo\bin\Debug\netcoreapp2.2\graphql-demo.pdb
+C:\repos\Learning-Projects\graphql-demo\obj\Debug\netcoreapp2.2\graphql-demo.csprojAssemblyReference.cache
+C:\repos\Learning-Projects\graphql-demo\obj\Debug\netcoreapp2.2\graphql-demo.csproj.CoreCompileInputs.cache
+C:\repos\Learning-Projects\graphql-demo\obj\Debug\netcoreapp2.2\graphql-demo.AssemblyInfoInputs.cache
+C:\repos\Learning-Projects\graphql-demo\obj\Debug\netcoreapp2.2\graphql-demo.AssemblyInfo.cs
+C:\repos\Learning-Projects\graphql-demo\obj\Debug\netcoreapp2.2\graphql-demo.dll
+C:\repos\Learning-Projects\graphql-demo\obj\Debug\netcoreapp2.2\graphql-demo.pdb
