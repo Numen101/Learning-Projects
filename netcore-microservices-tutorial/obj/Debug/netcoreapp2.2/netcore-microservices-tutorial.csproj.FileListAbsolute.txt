@@ -1,0 +1,14 @@
+C:\repos\Learning-Projects\netcore-microservices-tutorial\bin\Debug\netcoreapp2.2\netcore-microservices-tutorial.deps.json
+C:\repos\Learning-Projects\netcore-microservices-tutorial\bin\Debug\netcoreapp2.2\netcore-microservices-tutorial.runtimeconfig.json
+C:\repos\Learning-Projects\netcore-microservices-tutorial\bin\Debug\netcoreapp2.2\netcore-microservices-tutorial.runtimeconfig.dev.json
+C:\repos\Learning-Projects\netcore-microservices-tutorial\bin\Debug\netcoreapp2.2\netcore-microservices-tutorial.dll
+C:\repos\Learning-Projects\netcore-microservices-tutorial\bin\Debug\netcoreapp2.2\netcore-microservices-tutorial.pdb
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.csprojAssemblyReference.cache
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.csproj.CoreCompileInputs.cache
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.RazorAssemblyInfo.cache
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.RazorAssemblyInfo.cs
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.AssemblyInfoInputs.cache
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.AssemblyInfo.cs
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.RazorTargetAssemblyInfo.cache
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.dll
+C:\repos\Learning-Projects\netcore-microservices-tutorial\obj\Debug\netcoreapp2.2\netcore-microservices-tutorial.pdb
